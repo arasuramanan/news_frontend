@@ -1,59 +1,59 @@
  🚀 [Live preview](https://peppy-beignet-61cf36.netlify.app/)
 
-Project Setup:
+# Project Setup:
 
 Start a new React project.
-Component Structure:
+# Component Structure:
 
 Create components for Header, NewsList, NewsCard, SearchBar, CategoryMenu, and Footer.
-API Integration:
+# API Integration:
 
 Choose a news API.
 Use Axios or Fetch to fetch news data.
-Displaying News:
+# Displaying News:
 
 Render news articles in NewsList.
 Use NewsCard to display each article with title, image, description, source, and date.
-Search Functionality:
+# Search Functionality:
 
 Implement a search feature with the SearchBar.
 Filter news articles using keywords in API requests.
-Category Navigation:
+# Category Navigation:
 
 Provide navigation by news categories with the CategoryMenu.
 Modify API requests for category filtering.
-Pagination:
+# Pagination:
 
 Implement pagination for displaying news articles.
-Detail View:
+# Detail View:
 
 Create a detailed view for each news article.
 Use routing (e.g., React Router) for navigation.
-UI Styling with Tailwind CSS:
+# UI Styling with Tailwind CSS:
 
 Apply Tailwind CSS classes for styling.
-Loading States and Errors:
+# Loading States and Errors:
 
 Display loading indicators and error messages.
-Responsiveness:
+# Responsiveness:
 
 Ensure the application is responsive on various screen sizes.
-Testing:
+# Testing:
 
 Write tests for components and API interactions.
-Deployment:
+# Deployment:
 
 Deploy the React app on a hosting platform.
-Documentation:
+# Documentation:
 
 Maintain project documentation, including setup instructions.
-User Experience:
+# User Experience:
 
 Focus on providing a user-friendly experience.
-Legal Considerations:
+# Legal Considerations:
 
 Ensure compliance with content usage policies.
-Continuous Maintenance:
+# Continuous Maintenance:
 
 Keep dependencies updated and address security issues.
 This concise list outlines the steps to create a news application using React and Tailwind CSS.
