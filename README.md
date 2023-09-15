@@ -1,70 +1,68 @@
-# Getting Started with Create React App
+# Website Link : https://peppy-beignet-61cf36.netlify.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Project Setup:
 
-## Available Scripts
+Start a new React project.
+Component Structure:
 
-In the project directory, you can run:
+Create components for Header, NewsList, NewsCard, SearchBar, CategoryMenu, and Footer.
+API Integration:
 
-### `npm start`
+Choose a news API.
+Use Axios or Fetch to fetch news data.
+Displaying News:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Render news articles in NewsList.
+Use NewsCard to display each article with title, image, description, source, and date.
+Search Functionality:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Implement a search feature with the SearchBar.
+Filter news articles using keywords in API requests.
+Category Navigation:
 
-### `npm test`
+Provide navigation by news categories with the CategoryMenu.
+Modify API requests for category filtering.
+Pagination:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Implement pagination for displaying news articles.
+Detail View:
 
-### `npm run build`
+Create a detailed view for each news article.
+Use routing (e.g., React Router) for navigation.
+UI Styling with Tailwind CSS:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Apply Tailwind CSS classes for styling.
+Loading States and Errors:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Display loading indicators and error messages.
+Responsiveness:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Ensure the application is responsive on various screen sizes.
+Testing:
 
-### `npm run eject`
+Write tests for components and API interactions.
+Deployment:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Deploy the React app on a hosting platform.
+Documentation:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Maintain project documentation, including setup instructions.
+User Experience:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Focus on providing a user-friendly experience.
+Legal Considerations:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Ensure compliance with content usage policies.
+Continuous Maintenance:
 
-## Learn More
+Keep dependencies updated and address security issues.
+This concise list outlines the steps to create a news application using React and Tailwind CSS.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![news1](https://github.com/arasuramanan/news_frontend/assets/102941390/e2f3383d-efa7-4567-9c5f-f9f337a066f1)
 
-### Code Splitting
+![news2](https://github.com/arasuramanan/news_frontend/assets/102941390/dea14dd6-9fc7-4f3f-b002-ace85d012d0d)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+![news3](https://github.com/arasuramanan/news_frontend/assets/102941390/334cacba-f6ae-4d96-a823-06b151842a73)
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![news4](https://github.com/arasuramanan/news_frontend/assets/102941390/01457eeb-b2c2-4cf6-bd42-aad3afa41eba)
