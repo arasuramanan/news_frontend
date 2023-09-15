@@ -1,5 +1,15 @@
  🚀 [Live preview](https://peppy-beignet-61cf36.netlify.app/)
 
+ # ScreenShot:
+ ![news1](https://github.com/arasuramanan/news_frontend/assets/102941390/8de032f6-89a4-4191-8c5a-9f5b3dcce9d9)
+ 
+![news2](https://github.com/arasuramanan/news_frontend/assets/102941390/3bf765fa-b958-4047-8641-6047fd15721a)
+
+![news3](https://github.com/arasuramanan/news_frontend/assets/102941390/ec6420d9-cd10-4b51-bae7-0565f5c51b12)
+
+![news4](https://github.com/arasuramanan/news_frontend/assets/102941390/fff26486-8d2a-4409-9540-991eca356f78)
+
+
 # Project Setup:
 
 Start a new React project.
